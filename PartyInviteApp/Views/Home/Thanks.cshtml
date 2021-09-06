@@ -1,0 +1,24 @@
+﻿@model PartyInviteApp.Models.PartyInvitation
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Thank You</title>
+    <link rel="stylesheet" href="/lib/bootstrap/dist/css/bootstrap.css" />
+</head>
+<body class="text-center">
+    <div>
+        <h1>Thank you, @Model.Name!</h1>
+        @if (Model.WillCome == true)
+        {
+            @:It's wonderful to be having you celebrate with us.
+        }
+        else
+        {
+            @:So sad you can't make it, all the best, thanks for letting us know.
+        }
+    </div>
+    <div>Click <a asp-action="Attending">here</a> to see others that will be part of the celebrartion.</div>
+</body>
+</html>

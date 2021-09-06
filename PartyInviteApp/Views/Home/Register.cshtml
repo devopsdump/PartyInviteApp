@@ -1,0 +1,35 @@
+﻿@model PartyInviteApp.Models.PartyInvitation
+@{
+    ViewData["Title"] = "Register Page";
+}
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Party Registration Form</title>
+</head>
+<body>
+    <form asp-action="Register" method="post">
+        <div>
+            <label asp-for="Name">Your name:</label>
+            <input asp-for="Name" />
+            <span asp-validation-for="Name" class="text-danger"></span>
+        </div>
+        <div>
+            <label asp-for="Email">Your email:</label>
+            <input asp-for="Email" />
+            <span asp-validation-for="Email" class="text-danger"></span>
+        </div>
+        <div>
+            <label>Will you attend?</label>
+            <select asp-for="WillCome">
+                <option value="">Choose an option</option>
+                <option value="true">Yes, I will come</option>
+                <option value="false">No, I can't come</option>
+            </select>
+        </div>
+        <button type="submit">Submit</button>
+    </form>
+</body>
+</html>

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "d2dK9XJsm7z6OYvPQxkkANbqx15jJdxIbhxWvnDWoyTu29AX2OyMAigMHJAmoFevp5zXSf41ImBjbW8b3WF/mg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\user\\source\\repos\\PartyInviteApp\\PartyInviteApp\\PartyInviteApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.18\\microsoft.netcore.app.host.win-x64.3.1.18.nupkg.sha512"
+  ],
+  "logs": []
+}
