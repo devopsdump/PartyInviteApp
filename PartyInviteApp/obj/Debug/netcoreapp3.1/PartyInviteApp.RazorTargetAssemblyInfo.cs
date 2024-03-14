@@ -17,7 +17,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyProductAttribute("PartyInviteApp")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f3fdcf2fbbbdee2d95c71e447d6246d333456582")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PartyInviteApp.Views")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 

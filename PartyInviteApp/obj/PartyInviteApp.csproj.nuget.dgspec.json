@@ -1,25 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\user\\source\\repos\\PartyInviteApp\\PartyInviteApp\\PartyInviteApp.csproj": {}
+    "C:\\Users\\chand\\OneDrive\\Documents\\Devops\\.net project\\PartyInviteApp\\PartyInviteApp\\PartyInviteApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\user\\source\\repos\\PartyInviteApp\\PartyInviteApp\\PartyInviteApp.csproj": {
+    "C:\\Users\\chand\\OneDrive\\Documents\\Devops\\.net project\\PartyInviteApp\\PartyInviteApp\\PartyInviteApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\source\\repos\\PartyInviteApp\\PartyInviteApp\\PartyInviteApp.csproj",
+        "projectUniqueName": "C:\\Users\\chand\\OneDrive\\Documents\\Devops\\.net project\\PartyInviteApp\\PartyInviteApp\\PartyInviteApp.csproj",
         "projectName": "PartyInviteApp",
-        "projectPath": "C:\\Users\\user\\source\\repos\\PartyInviteApp\\PartyInviteApp\\PartyInviteApp.csproj",
-        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\source\\repos\\PartyInviteApp\\PartyInviteApp\\obj\\",
+        "projectPath": "C:\\Users\\chand\\OneDrive\\Documents\\Devops\\.net project\\PartyInviteApp\\PartyInviteApp\\PartyInviteApp.csproj",
+        "packagesPath": "C:\\Users\\chand\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\chand\\OneDrive\\Documents\\Devops\\.net project\\PartyInviteApp\\PartyInviteApp\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\chand\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -39,6 +34,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -50,16 +50,11 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.NETCore.App.Host.win-x64",
-              "version": "[3.1.18, 3.1.18]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.AspNetCore.App": {
               "privateAssets": "none"
@@ -68,7 +63,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     }

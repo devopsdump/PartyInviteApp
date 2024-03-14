@@ -1,3 +1,5 @@
 is_global = true
 build_property.RootNamespace = PartyInviteApp
-build_property.ProjectDir = C:\Users\user\source\repos\PartyInviteApp\PartyInviteApp\
+build_property.ProjectDir = C:\Users\chand\OneDrive\Documents\Devops\.net project\PartyInviteApp\PartyInviteApp\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 

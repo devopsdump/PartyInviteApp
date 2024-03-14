@@ -1,10 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "d2dK9XJsm7z6OYvPQxkkANbqx15jJdxIbhxWvnDWoyTu29AX2OyMAigMHJAmoFevp5zXSf41ImBjbW8b3WF/mg==",
+  "dgSpecHash": "TJ4rQmA3ZjaV/Tm8j+1qgwZhxEBODKX2uoFUpmN+ojASvTZb199VmMHQM2P76XvibtuHLoqgBd14j4PVYpKCBg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\user\\source\\repos\\PartyInviteApp\\PartyInviteApp\\PartyInviteApp.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\user\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.18\\microsoft.netcore.app.host.win-x64.3.1.18.nupkg.sha512"
-  ],
+  "projectFilePath": "C:\\Users\\chand\\OneDrive\\Documents\\Devops\\.net project\\PartyInviteApp\\PartyInviteApp\\PartyInviteApp.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }
